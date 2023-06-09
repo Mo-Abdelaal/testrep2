@@ -1,4 +1,5 @@
-/** *****************************************************************************
+Second commit
+** *****************************************************************************
  * \file    adc_api.h
  * \brief   implementation of comp.c
  *
@@ -11,7 +12,7 @@
  *  $Revision: 00000 $
  *
  * \section LICENSE
- * Copyright (c) 2023 weidmueller Interface (Germany) GmbH.
+ * Copyright (c) 2023 weidmueller Intesrface (Germany) GmbH.
  * All rights reserved.
  ***************************************************************************** */
 
